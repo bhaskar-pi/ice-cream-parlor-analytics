@@ -50,7 +50,9 @@ src/
 To run the main program:
 
 ```sh
-npm print
+npm run print
+or
+npm run start
 ```
 
 ## Scripts
