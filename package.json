@@ -1,0 +1,21 @@
+{
+  "name": "ice-cream-parlor-analytics",
+  "version": "1.0.0",
+  "description": "A modular sales analytics tool that provides insights for an ice cream parlor, including monthly sales, popular items, revenue breakdowns, and more.",
+  "main": "src/index.ts",
+  "scripts": {
+    "print": "ts-node src/index.ts",
+    "start": "npm run print"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Bhaskar Pasupurathi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
